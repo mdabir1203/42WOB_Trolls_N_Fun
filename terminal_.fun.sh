@@ -4,14 +4,14 @@ clear
 
 say -v whisper Welcome !!
 
-printf "\t\t\t\t You know who is cooking something!_!" | /goinfre/mabbas/nms/bin/nms -af green
+printf "\t\t\t\t UKnowWho is cooking something!_!" | ./nms/bin/nms -af green
 printf "\n"
 
 sleep 0.3
 say -v whisper Wanna see.....
 clear
 
-printf "\t\t\t\t\t For the 42 People  !_!" | /goinfre/mabbas/nms/bin/nms -af magenta
+printf "\t\t\t\t\t For the 42 People  !_!" | ./nms/bin/nms -af magenta
 printf "\n"
 
 say -v whisper Whats happening 
@@ -34,11 +34,11 @@ printf "
                                  Y&#######P   .^^^^^^^^^^^^^^^^^^.                                  
                                  5&#######P                                                         
                                  5&&&&&&&&G                                                         
-                                 75YYYYYY5J" | /goinfre/mabbas/nms/bin/nms -af black
+                                 75YYYYYY5J" | ./nms/bin/nms -af black
 
 printf "\n"
 
-say -v whisper [[volm +0.3]] Happy Halloween;
+say -v whisper Happy Halloween;
 sleep 0.3
 
 printf " 
@@ -48,5 +48,6 @@ printf "
 			██─█─█─█─██─██─██─██▀██─▄███▄▄▄▄─██─▄─▀██─██─███─▄─▄█─██▄─█
 			▀▀▄▄▄▀▄▄▄▀▀▄▄▄▄▀▄▄▄▄▄▀▄▄▄▀▀▀▄▄▄▄▄▀▄▄▄▄▀▀▀▄▄▄▄▀▀▄▄▀▄▄▀▄▄▄▄▄▀
 		42WOB	42WOB	42WOB	42WOB	42W4O	42WOB	42WOB	42WOB	42WOB
-				!_! LETS  CODE !_!" | /goinfre/mabbas/nms/bin/nms -af black;
-say -v Whisper Ha ha hah he hehe  [[volm +1.11]]
+				!_! LETS  CODE !_!" | ./nms/bin/nms -af black;
+
+say -v Whisper Ha ha hah he hehe 
