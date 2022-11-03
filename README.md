@@ -1,4 +1,4 @@
-# NMS_MOD_42Halloween
+# 42Halloween_WOB_FUN
 
 A Fun experiment with the nms tool created by @bartobri. For description it is a command line tool that recreats the hacking effects in movie scene.
 
