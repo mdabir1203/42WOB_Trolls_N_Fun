@@ -24,6 +24,6 @@ Further Modifications:
 
 I would like some input from everyone. We can build something more fun out of this :D 
 
-##**"When you join a lot of creative minds together, you create something Extraordinary"**
+# **"When you join a lot of creative minds together, you create something Extraordinary"**
 
 
