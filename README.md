@@ -15,8 +15,10 @@ OUTPUT: -->> Just run it to see it :xD (
 
 
 Learning outcome:
-I got to know how the pipe output works and how to use a library even if you don't have the admin access to a computer. How to manually direct the file 
-to run from Terminal. Overall it was some small creative idea to implement.
+
+1. Usage of the Pipe (|) in Bash in Terminal.
+2. Bypassing access without admin rights and run files/scripts at startup of Terminal
+3. Manipulation of bash/zsh shell source file.
 
 Further Modifications:
 
