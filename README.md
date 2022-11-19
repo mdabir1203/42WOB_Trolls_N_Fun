@@ -8,8 +8,11 @@ A Fun experiment with the nms tool created by @bartobri. For description it is a
 
 -->>  To have the same prank on somebody else's computer put them in to shell source file(if you know what I mean,if not send me a msg in discord) :P 
 
-Prequisite: Remember to install the ncurses library from [Here(ncurses support)](https://github.com/bartobri/no-more-secrets/blob/master/NCURSES.md)
+Prequisite: 
 
+1. Remember to install the ncurses library from [Here(ncurses support)](https://github.com/bartobri/no-more-secrets/blob/master/NCURSES.md)
+2. fortune
+3. catimg
 OUTPUT: -->> Just run it to see it :xD (
 
 
@@ -19,6 +22,16 @@ Learning outcome:
 1. Usage of the Pipe (|) in Bash in Terminal.
 2. Bypassing access without admin rights and run files/scripts at startup of Terminal
 3. Manipulation of bash/zsh shell source file.
+
+
+
+Latest Update:
+
+- [] Added catimg terminal viewer
+- [] added the fortune teller mystery
+
+
+
 
 Further Modifications:
 
