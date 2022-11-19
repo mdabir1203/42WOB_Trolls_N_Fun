@@ -35,9 +35,11 @@ Latest Update:
 
 
 
-Further Modifications:
+Ideastorm : 
 
-I would like some input from everyone. We can build something more fun out of this :D 
+Shoot some ideas or features you want. Create an issue or write to me in Discord.
+
+I want to end it with:
 
 # **"When you join a lot of creative minds together, you create something Extraordinary"**
 
