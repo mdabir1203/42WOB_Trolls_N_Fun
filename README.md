@@ -12,7 +12,9 @@ Prequisite:
 
 1. Remember to install the ncurses library from [Here(ncurses support)](https://github.com/bartobri/no-more-secrets/blob/master/NCURSES.md)
 2. fortune
-3. catimg
+3. catimg -->> You can use any photo. Change the png in the first line
+
+
 OUTPUT: -->> Just run it to see it :xD (
 
 
