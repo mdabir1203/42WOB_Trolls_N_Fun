@@ -1,6 +1,6 @@
 clear
 
-catimg -t printf"\t" pingu.png | /Users/mabbas/Projects/42_Haloween_Script/nms/bin/nms -af red
+catimg -t printf"\t" pingu.png | ./nms/bin/nms -af red
 
 
 clear
@@ -9,18 +9,18 @@ sleep 0.5
 
 say -v whisper Welcome !!
 
-printf "\t\t\t\t You know who is cooking something!_!" | /Users/mabbas/Projects/42_Haloween_Script/nms/bin/nms -af green
+printf "\t\t\t\t You know who is cooking something!_!" | ./nms/bin/nms -af green
 printf "\n"
 
 sleep 0.3
 say -v whisper Wanna see.....
 clear
 
-printf "\t\t\t\t\t For the 42 People  !_!" | /Users/mabbas/Projects/42_Haloween_Script/nms/bin/nms -af magenta
+printf "\t\t\t\t\t For the 42 People  !_!" | ./nms/bin/nms -af magenta
 printf "\n"
 
 
-fortune | /Users/mabbas/Projects/42_Haloween_Script/nms/bin/nms -af blue
+fortune | ./nms/bin/nms -af blue
 
 
 say -v whisper Whats happening 
