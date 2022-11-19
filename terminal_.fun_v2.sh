@@ -1,27 +1,30 @@
-
-!/bin/sh
 clear
 
+catimg -t printf"\t" pingu.png | /Users/mabbas/Projects/42_Haloween_Script/nms/bin/nms -af red
 
 
+clear
 
+sleep 0.5
 
 say -v whisper Welcome !!
 
-printf "\t\t\t\t UKnowWho is cooking something!_!" | ./nms/bin/nms -af green
+printf "\t\t\t\t You know who is cooking something!_!" | /Users/mabbas/Projects/42_Haloween_Script/nms/bin/nms -af green
 printf "\n"
 
 sleep 0.3
 say -v whisper Wanna see.....
 clear
 
-printf "\t\t\t\t\t For the 42 People  !_!" | ./nms/bin/nms -af magenta
+printf "\t\t\t\t\t For the 42 People  !_!" | /Users/mabbas/Projects/42_Haloween_Script/nms/bin/nms -af magenta
 printf "\n"
+
+
+fortune | /Users/mabbas/Projects/42_Haloween_Script/nms/bin/nms -af blue
+
 
 say -v whisper Whats happening 
 sleep 0.3
-
-clear
 
 printf "                                  
                                :JGBBBBBBGJ:   7BBBBBBB5?GBBBBBBBB~                                  
@@ -40,11 +43,11 @@ printf "
                                  Y&#######P   .^^^^^^^^^^^^^^^^^^.                                  
                                  5&#######P                                                         
                                  5&&&&&&&&G                                                         
-                                 75YYYYYY5J" | ./nms/bin/nms -af white
+                                 75YYYYYY5J" | /goinfre/mabbas/nms/bin/nms -af black
 
 printf "\n"
 
-say -v whisper Happy Halloween;
+say -v whisper [[volm +0.3]] Welcome the joyride;
 sleep 0.3
 
 printf " 
@@ -54,6 +57,6 @@ printf "
 			██─█─█─█─██─██─██─██▀██─▄███▄▄▄▄─██─▄─▀██─██─███─▄─▄█─██▄─█
 			▀▀▄▄▄▀▄▄▄▀▀▄▄▄▄▀▄▄▄▄▄▀▄▄▄▀▀▀▄▄▄▄▄▀▄▄▄▄▀▀▀▄▄▄▄▀▀▄▄▀▄▄▀▄▄▄▄▄▀
 		42WOB	42WOB	42WOB	42WOB	42W4O	42WOB	42WOB	42WOB	42WOB
-				!_! LETS  CODE !_!" | ./nms/bin/nms -afc black;
+				!_! LETS  CODE !_!" | /goinfre/mabbas/nms/bin/nms -af black;
 
-say -v Whisper Ha ha hah he hehe 
+say -v Whisper Ha ha ha ha ha ha hehe hehe hehe hihihihihihi
