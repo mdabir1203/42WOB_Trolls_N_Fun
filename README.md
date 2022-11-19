@@ -29,8 +29,8 @@ Learning outcome:
 
 Latest Update:
 
-- [x] Added catimg terminal viewer
-- [x] added the fortune teller mystery
+- [x] ✅ Added catimg terminal viewer
+- [x] ✅ Added the fortune teller mystery
 
 
 
