@@ -3,22 +3,19 @@
 clear
 
 
-
-
-
-say -v whisper Welcome !!
+say -v Hysterical Tadaaaaaaa !!
 
 printf "\t\t\t\t UKnowWho is cooking something!_!" | ./nms/bin/nms -af green
 printf "\n"
 
 sleep 0.3
-say -v whisper Wanna see.....
+say -v Hysterical Wanna see.....
 clear
 
-printf "\t\t\t\t\t For the 42 People  !_!" | ./nms/bin/nms -af magenta
+printf "\t\t\t\t\t For the 42 People  !_!" | ./nms/bin/nms -af magenta | lolcat
 printf "\n"
 
-say -v whisper Whats happening 
+say -v Hysterical Welcome New Students ! Code Hard !!!  
 sleep 0.3
 
 clear
@@ -40,20 +37,23 @@ printf "
                                  Y&#######P   .^^^^^^^^^^^^^^^^^^.                                  
                                  5&#######P                                                         
                                  5&&&&&&&&G                                                         
-                                 75YYYYYY5J" | ./nms/bin/nms -af white
+                                 75YYYYYY5J" | ./nms/bin/nms -af white | lolcat
 
 printf "\n"
 
-say -v whisper Happy Halloween;
+say -v whisper Winter Fest is Coming;
 sleep 0.3
 
 printf " 
-		42WoB	42WOB	42WOB	42WOB	242W4O	42WOB	42WOB	42WOB	42WOB
-			█████████████████████████████████████████████████████████▀█
+		42WoB	42WOB	42WOB	42WOB	242W4O	42WOB	42WOB	42WOB	42W
+
 			█▄─█▀▀▀█─▄█─▄▄─█▄─▄███▄─▄▄─█─▄▄▄▄█▄─▄─▀█▄─██─▄█▄─▄▄▀█─▄▄▄▄█
 			██─█─█─█─██─██─██─██▀██─▄███▄▄▄▄─██─▄─▀██─██─███─▄─▄█─██▄─█
 			▀▀▄▄▄▀▄▄▄▀▀▄▄▄▄▀▄▄▄▄▄▀▄▄▄▀▀▀▄▄▄▄▄▀▄▄▄▄▀▀▀▄▄▄▄▀▀▄▄▀▄▄▀▄▄▄▄▄▀
+		
 		42WOB	42WOB	42WOB	42WOB	42W4O	42WOB	42WOB	42WOB	42WOB
-				!_! LETS  CODE !_!" | ./nms/bin/nms -afc black;
+				!_! CODE SMARTER AND HAVE FUN !_!" | ./nms/bin/nms -afc black;
+
+fortune | 
 
 say -v Whisper Ha ha hah he hehe 

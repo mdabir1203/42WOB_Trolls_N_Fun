@@ -1,3 +1,14 @@
+#!/bin/bash
+
+Type='uname -s'
+
+if [ ${Type}  = Darwin ] 
+	then brew install ncurses ;
+elif [ ${Type} = Linux]
+	then sudo apt-get install libncurses5-dev libncursesw5-dev --yes ;
+else echo "Unsupported OS - ${TYPE}"
+fi
+
 clear
 
 catimg -t printf"\t" pingu.png | ./nms/bin/nms -af red
