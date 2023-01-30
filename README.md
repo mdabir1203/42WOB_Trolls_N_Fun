@@ -43,9 +43,9 @@ Learning outcome:
 
 Latest Update:
 
--  ✅ added catimg terminal viewer
 -  ✅ added the fortune teller mystery
 -  ✅ added lolcat to colorize animation
+-  ✅ added lolcat and fortune prerequisite check and install
 
 
 Features needed help to implement : 
