@@ -14,12 +14,13 @@ Demo :
 
 ##First Part>>>
 
-<img src="https://user-images.githubusercontent.com/66947064/215565721-b8b503ee-486b-4e27-8d0e-867f83b32c85.gif" width="500" height="500">
+
+
+https://user-images.githubusercontent.com/66947064/215568988-91daf0e5-dcf8-49c7-8edc-4ff4feef5d4c.mov
+
+
 
 ##Second Part>>>
- 
-<img src="https://user-images.githubusercontent.com/66947064/215565721-b8b503ee-486b-4e27-8d0e-867f83b32c85.gif" width="500" height="500">
-
 
 
 Prequisite: 
