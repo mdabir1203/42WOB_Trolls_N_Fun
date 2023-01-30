@@ -18,7 +18,7 @@ Demo :
 
 ##Second Part>>>
 
-![Part2](https://user-images.githubusercontent.com/66947064/215565721-b8b503ee-486b-4e27-8d0e-867f83b32c85.gif)
+<height = 300px ![Part2](https://user-images.githubusercontent.com/66947064/215565721-b8b503ee-486b-4e27-8d0e-867f83b32c85.gif)
 
 
 
