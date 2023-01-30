@@ -14,11 +14,11 @@ Demo :
 
 ##First Part>>>
 
-![1](https://user-images.githubusercontent.com/66947064/215565230-ec6db425-404f-45de-89a5-ca1e536fe95f.gif)
+<img src="[path/to/your/gif.gif](https://user-images.githubusercontent.com/66947064/215565721-b8b503ee-486b-4e27-8d0e-867f83b32c85.gif)" width="500" height="500">
 
 ##Second Part>>>
-
-<height = 300px ![Part2](https://user-images.githubusercontent.com/66947064/215565721-b8b503ee-486b-4e27-8d0e-867f83b32c85.gif)
+ 
+<img src="[path/to/your/gif.gif](https://user-images.githubusercontent.com/66947064/215565721-b8b503ee-486b-4e27-8d0e-867f83b32c85.gif)" width="500" height="500">
 
 
 
