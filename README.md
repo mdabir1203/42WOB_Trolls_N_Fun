@@ -8,6 +8,21 @@ A Fun experiment with the nms tool created by @bartobri. For description it is a
 
 -->>  To have the same prank on somebody else's computer put them in to shell source file(if you know what I mean,if not send me a msg in discord) :P 
 
+
+
+Demo :
+
+##First Part>>>
+
+![1](https://user-images.githubusercontent.com/66947064/215565230-ec6db425-404f-45de-89a5-ca1e536fe95f.gif)
+
+##Second Part>>>
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/66947064/215565425-8cb613f0-5590-4d8a-942f-c16834b7ef81.gif)
+
+
+
+
 Prequisite: 
 
 1. Remember to install the ncurses library from [Here(ncurses support)](https://github.com/bartobri/no-more-secrets/blob/master/NCURSES.md)
