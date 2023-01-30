@@ -18,8 +18,7 @@ Demo :
 
 ##Second Part>>>
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/66947064/215565425-8cb613f0-5590-4d8a-942f-c16834b7ef81.gif)
-
+![Part2](https://user-images.githubusercontent.com/66947064/215565721-b8b503ee-486b-4e27-8d0e-867f83b32c85.gif)
 
 
 
