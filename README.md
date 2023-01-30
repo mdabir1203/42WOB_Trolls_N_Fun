@@ -27,7 +27,7 @@ Prequisite:
 
 1. Remember to install the ncurses library from [Here(ncurses support)](https://github.com/bartobri/no-more-secrets/blob/master/NCURSES.md)
 2. fortune [link](https://en.wikipedia.org/wiki/Fortune_(Unix))
-3. say command installed in your Mac
+4. say command installed in your Mac
 
 OUTPUT: -->> Just run it to see it :xD (
 
