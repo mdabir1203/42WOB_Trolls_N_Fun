@@ -2,6 +2,22 @@
 !/bin/sh
 clear
 
+if ! command -v lolcat &> /dev/null
+then
+  echo "lolcat not found. Installing..."
+  brew install lolcat
+fi
+
+if ! command -v fortune &> /dev/null
+then
+  echo "fortune not found. Installing..."
+  brew install fortune-mod
+fi
+
+echo "Both lolcat and fortune are now installed." > /dev/null
+
+clear
+
 
 say -v Hysterical Tadaaaaaaa !!
 
@@ -41,19 +57,42 @@ printf "
 
 printf "\n"
 
-say -v whisper Winter Fest is Coming;
+say -v whisper We code , We have fun ;
 sleep 0.3
 
 printf " 
 		42WoB	42WOB	42WOB	42WOB	242W4O	42WOB	42WOB	42WOB	42W
 
-			█▄─█▀▀▀█─▄█─▄▄─█▄─▄███▄─▄▄─█─▄▄▄▄█▄─▄─▀█▄─██─▄█▄─▄▄▀█─▄▄▄▄█
-			██─█─█─█─██─██─██─██▀██─▄███▄▄▄▄─██─▄─▀██─██─███─▄─▄█─██▄─█
-			▀▀▄▄▄▀▄▄▄▀▀▄▄▄▄▀▄▄▄▄▄▀▄▄▄▀▀▀▄▄▄▄▄▀▄▄▄▄▀▀▀▄▄▄▄▀▀▄▄▀▄▄▀▄▄▄▄▄▀
+		  █▄─█▀▀▀█─▄█─▄▄─█▄─▄███▄─▄▄─█─▄▄▄▄█▄─▄─▀█▄─██─▄█▄─▄▄▀█─▄▄▄▄█
+		  ██─█─█─█─██─██─██─██▀██─▄███▄▄▄▄─██─▄─▀██─██─███─▄─▄█─██▄─█
+		  ▀▀▄▄▄▀▄▄▄▀▀▄▄▄▄▀▄▄▄▄▄▀▄▄▄▀▀▀▄▄▄▄▄▀▄▄▄▄▀▀▀▄▄▄▄▀▀▄▄▀▄▄▀▄▄▄▄▄▀
 		
 		42WOB	42WOB	42WOB	42WOB	42W4O	42WOB	42WOB	42WOB	42WOB
 				!_! CODE SMARTER AND HAVE FUN !_!" | ./nms/bin/nms -afc black;
 
-fortune | 
+sleep 0.5
 
-say -v Whisper Ha ha hah he hehe 
+
+cols=$(tput cols)
+message=fortune | ./nms/bin/nms -afc green;
+message_len=${#message}
+half_cols=$((cols/2))
+half_message_len=$((message_len/2))
+pos=$((half_cols-half_message_len))
+
+tput clear
+tput cup $(tput lines) $pos
+echo $message
+
+sleep 0.3
+
+clear
+
+say -v Whisper "Here is your fortune cookie"
+
+sleep 0.2
+
+fortune | ./nms/bin/nms -afc green;
+ 
+
+
