@@ -1,5 +1,28 @@
 # 42Halloween_WOB_FUN
 
+##New Addition : 
+Background Story:
+People leaves their computer open which could be hacked anytime. As an awareness as such we had a culture of using the curl parrot.live to prank and teach others not to leave things open. 
+On that account, we want to create a version of parrot.live. Here's a sneakpeek of it : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 A Fun experiment with the nms tool created by @bartobri. For description it is a command line tool that recreats the hacking effects in movie scene.
 
 1. Do a Git Clone 
