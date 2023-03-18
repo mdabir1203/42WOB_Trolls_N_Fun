@@ -1,7 +1,8 @@
 # 42WOB_FUN
 
 ### New Addition : 
-Background Story:
+#### Background Story:
+
 People leaves their computer open which could be hacked anytime. As an awareness as such we had a culture of using the parrot.live to prank and teach others not to leave things open. Inspired from this we have created the following script 
 
 
