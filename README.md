@@ -1,25 +1,41 @@
-# 42Halloween_WOB_FUN
+# 42WOB_FUN
 
 ##New Addition : 
 Background Story:
-People leaves their computer open which could be hacked anytime. As an awareness as such we had a culture of using the curl parrot.live to prank and teach others not to leave things open. 
-On that account, we want to create a version of parrot.live. Here's a sneakpeek of it : 
+People leaves their computer open which could be hacked anytime. As an awareness as such we had a culture of using the parrot.live to prank and teach others not to leave things open. Inspired from this we have created the following script 
+
+
+##Xeyes prank
+This is a shell script that creates multiple instances of xeyes, a graphical program that displays two eyes that follow the mouse pointer, on your screen. It also plays a laughing sound every 10 seconds while the script is running. This script is intended as a prank or a joke, and it may not work on all systems.
+
+##Requirements
+1. **xeyes** installed on your system. You can install it using your package manager or from https://www.x.org/archive/X11R7.5/doc/man/man1/xeyes.1.html
+2. **xinput** installed on your system. You can install it using your package manager or from https://www.x.org/archive/X11R7.5/doc/man/man1/xinput.1.html
+3. **awk** installed on your system. You can install it using your package manager or from https://www.gnu.org/software/gawk/
+4. **aplay (for Linux) ** or **afplay (for macOS)** installed on your system. Install them using your package manager or from https://linux.die.net/man/1/aplay and https://ss64.com/osx/afplay.html
+5. Add any sound file in the same directory as the script. You can use any sound file you want, but make sure it has the same name and format.
+
+
+##Usage
+
+To run the script, open a terminal and navigate to the directory where the script is located.
+1.Make the script executable by typing `chmod +x xeyes_prank.sh`
+2.Run the script by `./xeyes_prank.sh`
+3.Enjoy watching multiple pairs of eyes following your mouse pointer and hearing laughter in the background.
+
+## Killswitch
+To stop the script, `press Ctrl+C` in the terminal or type `killall xeyes` in another terminal.
+
+
+##Disclaimer
+This script is for entertainment purposes only and may cause annoyance or frustration to some users. Use it at your own risk and with caution. The author of this script is not responsible for any damage or harm caused by this script.
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
+### Fun_Troll_2
 
 
 
