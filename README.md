@@ -28,8 +28,11 @@ To run the script, open a terminal and navigate to the directory where the scrip
 To stop the script, `press Ctrl+C` in the terminal or type `killall xeyes` in another terminal.
 
 
-### Disclaimer
-This script is for entertainment purposes only and may cause annoyance or frustration to some users. Use it at your own risk and with caution. The author of this script is not responsible for any damage or harm caused by this script.
+
+### Demo
+
+
+
 
 
 
@@ -102,4 +105,7 @@ I want to end it with:
 
 # **"When you join a lot of creative minds together, you create something Extraordinary"**
 
+
+### Disclaimer
+This script is for entertainment purposes only and may cause annoyance or frustration to some users. Use it at your own risk and with caution. The author of this script is not responsible for any damage or harm caused by this script.
 
