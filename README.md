@@ -45,6 +45,10 @@ To stop the script, `press Ctrl+C` in the terminal or type `killall xeyes` in an
 
 
 
+https://user-images.githubusercontent.com/66947064/226077110-6dccc5fa-9b55-4054-b47a-de8fa3098b7a.mp4
+
+
+
 
 
 
