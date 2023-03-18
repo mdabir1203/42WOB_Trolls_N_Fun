@@ -22,7 +22,9 @@ This is a shell script that creates multiple instances of xeyes, a graphical pro
 To run the script, open a terminal and navigate to the directory where the script is located.
 
 1.Make the script executable by typing `chmod +x xeyes_prank.sh`
+
 2.Run the script by `./xeyes_prank.sh`
+
 3.Enjoy watching multiple pairs of eyes following your mouse pointer and hearing laughter in the background.
 
 ### Killswitch
