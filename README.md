@@ -27,6 +27,13 @@ To run the script, open a terminal and navigate to the directory where the scrip
 
 3.Enjoy watching multiple pairs of eyes following your mouse pointer and hearing laughter in the background.
 
+
+Special Trick:
+
+Add it to .zshrc / .bashrc to have super fun
+
+
+
 ### Killswitch
 To stop the script, `press Ctrl+C` in the terminal or type `killall xeyes` in another terminal.
 
