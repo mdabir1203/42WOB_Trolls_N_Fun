@@ -120,5 +120,5 @@ I want to end it with:
 
 
 ### Disclaimer
-This script is for entertainment purposes only and may cause annoyance or frustration to some users. Use it at your own risk and with caution. The author of this script is not responsible for any damage or harm caused by this script.
+The scripts are for entertainment purposes only and may cause annoyance or frustration to some students. Use it at your own risk and with caution. The author of this script is not responsible for any damage or harm caused by this script.
 
