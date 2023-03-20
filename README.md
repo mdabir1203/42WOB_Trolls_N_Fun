@@ -57,7 +57,7 @@ https://user-images.githubusercontent.com/66947064/226077110-6dccc5fa-9b55-4054-
 
 
 
-A Fun experiment with the nms tool created by @bartobri. For description it is a command line tool that recreats the hacking effects in movie scene.
+A Fun experiment with the nms tool created by `https://github.com/sponsors/bartobri`. For description it is a command line tool that recreats the hacking effects in movie scene.
 
 1. Do a Git Clone 
 2.  ```cd```  to the folder
