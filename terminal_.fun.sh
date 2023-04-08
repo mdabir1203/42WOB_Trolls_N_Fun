@@ -1,5 +1,4 @@
-
-!/bin/sh
+#!/bin/sh
 clear
 
 if ! command -v lolcat &> /dev/null
@@ -74,7 +73,7 @@ sleep 0.5
 
 
 cols=$(tput cols)
-message=fortune | ./nms/bin/nms -afc green;
+message=$(fortune | ./nms/bin/nms -afc green);
 message_len=${#message}
 half_cols=$((cols/2))
 half_message_len=$((message_len/2))
